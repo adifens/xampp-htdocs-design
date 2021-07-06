@@ -1,0 +1,3 @@
+#!/bin/sh
+rm -f /opt/lampp/htdocs/.htaccess
+rm -rf /opt/lampp/htdocs/.abba
